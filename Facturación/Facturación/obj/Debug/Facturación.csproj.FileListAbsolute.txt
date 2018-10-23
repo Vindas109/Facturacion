@@ -1,0 +1,114 @@
+C:\Users\steve\Desktop\Facturación\Facturación\bin\Debug\Facturación.exe.config
+C:\Users\steve\Desktop\Facturación\Facturación\bin\Debug\Facturación.exe
+C:\Users\steve\Desktop\Facturación\Facturación\bin\Debug\Facturación.pdb
+C:\Users\steve\Desktop\Facturación\Facturación\obj\Debug\Facturación.csprojAssemblyReference.cache
+C:\Users\steve\Desktop\Facturación\Facturación\obj\Debug\Facturación.Form1.resources
+C:\Users\steve\Desktop\Facturación\Facturación\obj\Debug\Facturación.Properties.Resources.resources
+C:\Users\steve\Desktop\Facturación\Facturación\obj\Debug\Facturación.csproj.GenerateResource.cache
+C:\Users\steve\Desktop\Facturación\Facturación\obj\Debug\Facturación.csproj.CoreCompileInputs.cache
+C:\Users\steve\Desktop\Facturación\Facturación\obj\Debug\Facturación.exe
+C:\Users\steve\Desktop\Facturación\Facturación\obj\Debug\Facturación.pdb
+C:\Users\steve\Desktop\Facturación\Facturación\obj\Debug\Facturación.Form3.resources
+C:\Users\steve\Desktop\Facturación\Facturación\obj\Debug\Facturación.Form10.resources
+C:\Users\steve\Desktop\Facturación\Facturación\obj\Debug\Facturación.Form11.resources
+C:\Users\steve\Desktop\Facturación\Facturación\obj\Debug\Facturación.Form4.resources
+C:\Users\steve\Desktop\Facturación\Facturación\obj\Debug\Facturación.Form5.resources
+C:\Users\steve\Desktop\Facturación\Facturación\obj\Debug\Facturación.Form6.resources
+C:\Users\steve\Desktop\Facturación\Facturación\obj\Debug\Facturación.Form12.resources
+C:\Users\steve\Desktop\Facturación\Facturación\obj\Debug\Facturación.Form13.resources
+C:\Users\steve\Desktop\Facturación\Facturación\obj\Debug\Facturación.Form7.resources
+C:\Users\steve\Desktop\Facturación\Facturación\obj\Debug\Facturación.Form8.resources
+C:\Users\steve\Desktop\Facturación\Facturación\obj\Debug\Facturación.Form9.resources
+C:\Users\steve\Desktop\Facturación\Facturación\obj\Debug\Facturación.Form2.resources
+C:\Users\ITCO\Desktop\Facturación\Facturación\bin\Debug\Facturación.exe.config
+C:\Users\ITCO\Desktop\Facturación\Facturación\obj\Debug\Facturación.exe
+C:\Users\ITCO\Desktop\Facturación\Facturación\obj\Debug\Facturación.pdb
+C:\Users\ITCO\Desktop\Facturación\Facturación\bin\Debug\Facturación.exe
+C:\Users\ITCO\Desktop\Facturación\Facturación\bin\Debug\Facturación.pdb
+C:\Users\ITCO\Desktop\Facturación\Facturación\obj\Debug\Facturación.csprojResolveAssemblyReference.cache
+C:\Users\ITCO\Desktop\Facturación\Facturación\obj\Debug\Facturación.F_login.resources
+C:\Users\ITCO\Desktop\Facturación\Facturación\obj\Debug\Facturación.Form10.resources
+C:\Users\ITCO\Desktop\Facturación\Facturación\obj\Debug\Facturación.F_InUsu.resources
+C:\Users\ITCO\Desktop\Facturación\Facturación\obj\Debug\Facturación.F_Admin.resources
+C:\Users\ITCO\Desktop\Facturación\Facturación\obj\Debug\Facturación.F_Veri.resources
+C:\Users\ITCO\Desktop\Facturación\Facturación\obj\Debug\Facturación.F_Mante.resources
+C:\Users\ITCO\Desktop\Facturación\Facturación\obj\Debug\Facturación.F_Ventas.resources
+C:\Users\ITCO\Desktop\Facturación\Facturación\obj\Debug\Facturación.F_IDCliente.resources
+C:\Users\ITCO\Desktop\Facturación\Facturación\obj\Debug\Facturación.F_ReCliente.resources
+C:\Users\ITCO\Desktop\Facturación\Facturación\obj\Debug\Facturación.F_Factura.resources
+C:\Users\ITCO\Desktop\Facturación\Facturación\obj\Debug\Facturación.F_Pago.resources
+C:\Users\ITCO\Desktop\Facturación\Facturación\obj\Debug\Facturación.F_Caja.resources
+C:\Users\ITCO\Desktop\Facturación\Facturación\obj\Debug\Facturación.Form9.resources
+C:\Users\ITCO\Desktop\Facturación\Facturación\obj\Debug\Facturación.Properties.Resources.resources
+C:\Users\ITCO\Desktop\Facturación\Facturación\obj\Debug\Facturación.csproj.GenerateResource.Cache
+E:\Facturación\Facturación\bin\Debug\Facturación.exe.config
+E:\Facturación\Facturación\bin\Debug\Facturación.exe
+E:\Facturación\Facturación\bin\Debug\Facturación.pdb
+E:\Facturación\Facturación\obj\Debug\Facturación.csprojAssemblyReference.cache
+E:\Facturación\Facturación\obj\Debug\Facturación.F_login.resources
+E:\Facturación\Facturación\obj\Debug\Facturación.Form10.resources
+E:\Facturación\Facturación\obj\Debug\Facturación.F_InUsu.resources
+E:\Facturación\Facturación\obj\Debug\Facturación.F_Admin.resources
+E:\Facturación\Facturación\obj\Debug\Facturación.F_Veri.resources
+E:\Facturación\Facturación\obj\Debug\Facturación.F_Mante.resources
+E:\Facturación\Facturación\obj\Debug\Facturación.F_Ventas.resources
+E:\Facturación\Facturación\obj\Debug\Facturación.F_IDCliente.resources
+E:\Facturación\Facturación\obj\Debug\Facturación.F_ReCliente.resources
+E:\Facturación\Facturación\obj\Debug\Facturación.F_Factura.resources
+E:\Facturación\Facturación\obj\Debug\Facturación.F_Pago.resources
+E:\Facturación\Facturación\obj\Debug\Facturación.F_Caja.resources
+E:\Facturación\Facturación\obj\Debug\Facturación.Properties.Resources.resources
+E:\Facturación\Facturación\obj\Debug\Facturación.csproj.GenerateResource.cache
+E:\Facturación\Facturación\obj\Debug\Facturación.csproj.CoreCompileInputs.cache
+E:\Facturación\Facturación\obj\Debug\Facturación.exe
+E:\Facturación\Facturación\obj\Debug\Facturación.pdb
+E:\Facturación\Facturación\obj\Debug\Facturación.F_Desc.resources
+E:\Facturación\Facturación\obj\Debug\Facturación.F_VeriDes.resources
+D:\Facturación\Facturación\obj\Debug\Facturación.csprojAssemblyReference.cache
+D:\Facturación\Facturación\obj\Debug\Facturación.F_login.resources
+D:\Facturación\Facturación\obj\Debug\Facturación.Form10.resources
+D:\Facturación\Facturación\obj\Debug\Facturación.F_InUsu.resources
+D:\Facturación\Facturación\obj\Debug\Facturación.F_Admin.resources
+D:\Facturación\Facturación\obj\Debug\Facturación.F_Veri.resources
+D:\Facturación\Facturación\obj\Debug\Facturación.F_Mante.resources
+D:\Facturación\Facturación\obj\Debug\Facturación.F_Ventas.resources
+D:\Facturación\Facturación\obj\Debug\Facturación.F_IDCliente.resources
+D:\Facturación\Facturación\obj\Debug\Facturación.F_ReCliente.resources
+D:\Facturación\Facturación\obj\Debug\Facturación.F_Factura.resources
+D:\Facturación\Facturación\obj\Debug\Facturación.F_Pago.resources
+D:\Facturación\Facturación\obj\Debug\Facturación.F_Caja.resources
+D:\Facturación\Facturación\obj\Debug\Facturación.F_Desc.resources
+D:\Facturación\Facturación\obj\Debug\Facturación.F_VeriDes.resources
+D:\Facturación\Facturación\obj\Debug\Facturación.Properties.Resources.resources
+D:\Facturación\Facturación\obj\Debug\Facturación.csproj.GenerateResource.cache
+D:\Facturación\Facturación\obj\Debug\Facturación.csproj.CoreCompileInputs.cache
+D:\Facturación\Facturación\obj\Debug\Facturación.exe
+D:\Facturación\Facturación\obj\Debug\Facturación.pdb
+D:\Facturación\Facturación\bin\Debug\Facturación.exe.config
+D:\Facturación\Facturación\bin\Debug\Facturación.exe
+D:\Facturación\Facturación\bin\Debug\Facturación.pdb
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\obj\Debug\Facturación.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\obj\Debug\Facturación.F_login.resources
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\obj\Debug\Facturación.Form10.resources
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\obj\Debug\Facturación.F_InUsu.resources
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\obj\Debug\Facturación.F_Admin.resources
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\obj\Debug\Facturación.F_Veri.resources
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\obj\Debug\Facturación.F_Mante.resources
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\obj\Debug\Facturación.F_Ventas.resources
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\obj\Debug\Facturación.F_IDCliente.resources
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\obj\Debug\Facturación.F_ReCliente.resources
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\obj\Debug\Facturación.F_Factura.resources
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\obj\Debug\Facturación.F_Pago.resources
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\obj\Debug\Facturación.F_Caja.resources
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\obj\Debug\Facturación.F_Desc.resources
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\obj\Debug\Facturación.F_VeriDes.resources
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\obj\Debug\Facturación.Properties.Resources.resources
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\obj\Debug\Facturación.csproj.GenerateResource.cache
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\obj\Debug\Facturación.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\obj\Debug\Facturación.exe
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\obj\Debug\Facturación.pdb
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\bin\Debug\Facturación.exe.config
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\bin\Debug\Facturación.exe
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\bin\Debug\Facturación.pdb
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\obj\Debug\Facturación.VeriModText1.resources
+C:\Users\Franco\Desktop\FACTURACION FINAL\Facturación\Facturación\obj\Debug\Facturación.INCombo.resources
